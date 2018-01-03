@@ -1,0 +1,15 @@
+body {
+  font-family: Verdana;
+  background: black;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+}
+
+.dcs, a {
+  font-size: 16px;
+  color: aquamarine;
+}
